@@ -97,7 +97,6 @@ Vague Prompt:
 "Tell me about technology."
 Improved Prompt:
 "Explain the impact of artificial intelligence on the healthcare industry in simple terms."
-Why the Improved Prompt is More Effective?
 More Specific – Focuses on AI’s impact rather than broad technology.
 Clear Context – Specifies the healthcare industry for relevant insights.
 Concise & Direct – Avoids ambiguity, leading to a precise AI respons
